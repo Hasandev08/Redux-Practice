@@ -1,2 +1,2 @@
 # Redux-Practice
-It contains all the material for redux during the learning period.
+It is the code written during the learning of Redux
